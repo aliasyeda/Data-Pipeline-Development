@@ -73,6 +73,10 @@ README.md                    :   Project overview and documentation
 
 Dataset provided by [Kaggle Titanic Challenge](https://www.kaggle.com/c/titanic/overview).
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/bd4c1f47-e6f6-40cc-b731-45d145ff1d38)
+
 
 
 
